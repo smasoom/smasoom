@@ -1,4 +1,4 @@
-<img src="Group 111.png" alt="Girl in a jacket">
+<img src="Group 122.png" alt="Girl in a jacket">
 <h1 align="center">Hi 👋 I' m Masoom</h1>
 <h3 align="center">A passionate frontend developer from Indiaeloper from India</h3>
 <img align ="right" src="gif.gif" >
