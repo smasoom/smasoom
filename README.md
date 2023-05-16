@@ -1,8 +1,7 @@
 <img src="Group 111.png" alt="Girl in a jacket">
 <h1 align="center">Hi 👋 I' m Masoom</h1>
 <h3 align="center">A passionate frontend developer from Indiaeloper from India</h3>
-<img align ="right" src="![image](https://github.com/smasoom/smasoom/assets/86922644/75f571cd-6325-44d8-b5f0-d548a7fbbf1f)
-" >
+<img align ="right" src="gif.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smasoom&label=Profile%20views&color=0e75b6&style=flat" alt="smasoom" /> </p>
 
