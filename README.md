@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smasoom&label=Profile%20views&color=0e75b6&style=flat" alt="smasoom" /> </p>
 
-- 🔭 I’m currently working on [Grafiny](https://github.com/smasoom/grafiny-client.git)
+- 🔭 I’m currently working on [Grafiny https://github.com/smasoom/grafiny-client] (https://github.com/smasoom/grafiny-client.git) 
 
 - 🌱 I’m currently learning **Backend technologies**
 
