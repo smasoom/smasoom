@@ -1,4 +1,4 @@
-<img src="Group 122.png" alt="Girl in a jacket">
+
 <h1 align="center"><b>Hi 👋 I' m Masoom<b></h1>
 <h3 align="center">Let's make the virtual world a better place, one line of code at a time!</h3>
 <img align ="right" src="gif.gif" >
